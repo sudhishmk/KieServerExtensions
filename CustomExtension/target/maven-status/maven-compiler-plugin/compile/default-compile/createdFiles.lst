@@ -1,0 +1,5 @@
+com/redhat/bulkclaim/BulkClaimTaskService.class
+com/redhat/bulkclaim/TaskIdModel.class
+com/redhat/bulkclaim/Test.class
+com/redhat/bulkclaim/BulkClaimResource.class
+com/redhat/bulkclaim/CustomBulkClaimExtension.class
